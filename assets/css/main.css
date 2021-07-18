@@ -2006,7 +2006,7 @@ input[type="button"].primary,
 button.primary,
 .button.primary {
 	background-color: #ffffff;
-	color: #201819 !important;
+	color: #000e05 !important;
 }
 
 input[type="submit"].primary:after,
@@ -2440,7 +2440,7 @@ select {
 
 select option {
 	color: #ffffff;
-	background: #201819;
+	background: #000e05;
 }
 
 select:focus::-ms-value {
@@ -2636,11 +2636,11 @@ input[type="radio"] + label:before {
 }
 
 .wrapper.style3 .icon.major:before {
-	color: #291f20;
+	color: #0f2015;
 }
 
 .wrapper.style3-alt .icon.major:before {
-	color: #201819;
+	color: #000e05;
 }
 
 /* Image */
@@ -3101,7 +3101,7 @@ body.is-ie .spotlights > section {
 	-webkit-transition: opacity 1s ease;
 	-ms-transition: opacity 1s ease;
 	transition: opacity 1s ease;
-	background: #201819;
+	background: #000e05;
 	content: "";
 	display: block;
 	height: 100%;
@@ -3315,19 +3315,19 @@ table.alt tfoot {
 }
 
 .wrapper.style2 {
-	background-color: #291f20;
+	background-color: #0f2015;
 }
 
 .wrapper.style2-alt {
-	background-color: #201819;
+	background-color: #000e05;
 }
 
 .wrapper.style3 {
-	background-color: #332829;
+	background-color: #222925;
 }
 
 .wrapper.style3-alt {
-	background-color: #3d3435;
+	background-color: #333835;
 }
 
 .wrapper.fullscreen {
